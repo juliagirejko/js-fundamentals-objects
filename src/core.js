@@ -25,8 +25,8 @@ person.friends = []
 // 10. Add two objects to the persons friends array with the following properties:
 // Friend one: name - Chris, age - 46
 // Friend two: name - Dom, age - 43
-const friendOne = {name: 'Chris', age: 46}
-const friendTwo = {name: 'Dom', age: 43}
+const friendOne = { name: 'Chris', age: 46 }
+const friendTwo = { name: 'Dom', age: 43 }
 person.friends.push(friendOne)
 person.friends.push(friendTwo)
 // 11. Using an index on the persons friends array, set the bestFriend variable below
